@@ -1,7 +1,7 @@
-<h3>Spring Boot OAuth2 Login</h3>
+<h1>Spring Boot OAuth2 Login</h1>
 This project demonstrates how to implement OAuth2 login in a Spring Boot application, enabling users to authenticate via GitHub.
 
-<h1>Technologies Used</h1>
+<h3>Technologies Used</h3>
 >Java<br>
 
 >Spring Boot<br>
@@ -11,20 +11,14 @@ This project demonstrates how to implement OAuth2 login in a Spring Boot applica
 >OAuth2<br>
 
 >Maven<br>
-spring.io
-+5
-medium.com
-+5
-github.com
-+5
 
-Getting Started
-Prerequisites
-Java 8 or higher
+<h3>Getting Started</h3>
+<h5>Prerequisites</h5>
+>Java 8 or higher<br>
 
-Maven
+>Maven<br>
 
-GitHub account
+>GitHub account<br>
 
 Setup Instructions
 Clone the repository:
